@@ -1,7 +1,7 @@
 A Formosan kid who used to study astrophysics 🔭🪐
 
 Current hobbies:
-- Machine learning
+- Deep learning & NLP
 - FinTech
 - Web3.0
 - Mountaineering
@@ -12,7 +12,7 @@ ho-sin-iu/ho-sin-iu is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+<h3 align="center">A passionate deep learning developers from Taiwan</h3>
 
 <h3 align="left">Connect with me: jb22621550@gmail.com</h3>
 <p align="left">
