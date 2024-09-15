@@ -1,22 +1,24 @@
-### Sin-iu Ho
+# About me
 
-I'm Sin-iu Ho (何信佑), a Taiwanese kid who used to study astrophysics. 🔭🪐
-I am currently a job seeker, focusing on the job title of ML engineer, AI engineer or data scientist.
+I'm Sin-iu Ho (何信佑), from Taichung, Taiwan. 
+I used to study physics and astrophyics. 🔭🪐 
+I just received an MSc degree from Eberhard Karls Universität Tübingen. 
+I'm currently a job seeker, focusing on the job title of **ML engineer**, **AI engineer** or **data scientist**.
+Now I'm interested in:
+  - **Web app development** 🎁
+  - **Machine learning** 🤖
+  - **Deep learning** 🧠
+  - **Computer vision** 👁️
+  - **Blockchain** 🪙
 
-[Qavit](https://qavit.github.io) means hundred-pace snake ([*Deinagkistrodon acutus*](https://www.snakesoftaiwan.com/deinagkistrodon-acutus.html), 百步蛇) in Takbunuaz Bunun language. This snake is found in the mid-elevation mountainous areas of central and southern Taiwan, and symbolizes oaths and friends in Bunun mythology. I hope that while programming and exploring cutting-edge technologies in the **Python** environments, I should never forget the value of Taiwanese culture, so I named my GitHub account *Qavit*.
-
+## My projects
 - Currect project(s):
   - 2024 NASA Space App Challenges: [fuis](https://github.com/qavit/fuis)
   - Hexo and Hugo blogs
 - Project(s) in the past:
   - [Swordle](https://github.com/learnai2024-team3-project/slgame) — American Sign Language (ASL) ✕ Wordle
   - a private Django blog
-- Interested in:
-  - **Web app dev** 🌏 
-  - **Deep learning** 🧠
-  - **Computer linguistics** 🗣️
-  - **Computer vision** 👁️
-  - **Blockchain** 🪙
+
 
 # Technologies used
 
@@ -45,3 +47,5 @@ I am currently a job seeker, focusing on the job title of ML engineer, AI engine
 ![Qavit's GitHub stats](https://github-readme-stats.vercel.app/api?username=qavit&show_icons=true&hide=issues&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qavit&layout=compact)
 
+# About the name *Qavit*
+*Qavit* means hundred-pace snake ([*Deinagkistrodon acutus*](https://www.snakesoftaiwan.com/deinagkistrodon-acutus.html), 百步蛇) in [Takbunuaz Bunun language](https://ilrdc.tw/research/athousand/pdf/lan4_4.pdf). This snake is found in the mid-elevation mountainous areas of central and southern Taiwan, and symbolizes oaths and friends in Bunun mythology. I hope that while programming and exploring cutting-edge technologies in the **Python** environments, I should never forget the value of Taiwanese culture, so I named my GitHub account *Qavit*.
