@@ -13,7 +13,7 @@ Now I'm interested in:
 
 ## My projects
 - Currect project(s):
-  - 2024 NASA Space App Challenges: [fuis](https://github.com/qavit/fuis)
+  - 2024 NASA Space App Challenges: [Smorrery](https://github.com/qavit/smorrery)
   - Hexo and Hugo blogs
 - Project(s) in the past:
   - [Swordle](https://github.com/learnai2024-team3-project/slgame) — American Sign Language (ASL) ✕ Wordle
