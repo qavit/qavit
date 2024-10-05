@@ -13,7 +13,7 @@ Now I'm interested in:
 
 ## My projects
 - Currect project(s):
-  - 2024 NASA Space App Challenges: [Smorrery](https://github.com/qavit/smorrery)
+  - 2024 NASA Space App Challenges: Gaia Room (prototypes: [Smorrery](https://github.com/qavit/smorrery), [keoinn/smorrery-webapp](https://github.com/keoinn/smorrery-webapp))
   - Hexo and Hugo blogs
 - Project(s) in the past:
   - [Swordle](https://github.com/learnai2024-team3-project/slgame) — American Sign Language (ASL) ✕ Wordle
