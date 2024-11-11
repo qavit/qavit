@@ -14,7 +14,7 @@ Now I'm interested in:
 
 ## My projects
 - Currect project(s):
-  - Hexo and Hugo blogs
+  - [Hakka learning app](https://github.com/qavit/hakka-learning-app)
 - Project(s) in the past:
   - [Swordle](https://github.com/learnai2024-team3-project/slgame) — American Sign Language (ASL) ✕ Wordle
   - **[Gaia Room](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/yue-yuan-ren-tuan-yuan/?tab=project)** — 2024 NASA Space Apps Challenge (GitHub repos: [Smorrery](https://github.com/qavit/smorrery), [keoinn/smorrery-webapp](https://github.com/keoinn/smorrery-webapp))
