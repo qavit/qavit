@@ -13,8 +13,8 @@ I am currently seeking opportunities as a machine learning engineer, AI engineer
 - Project(s) in the past:
   - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** — American Sign Language (ASL) ✕ Wordle game
   - **Fu'is Gaia Room**
-    - [**Global Nominee**, 2024 NASA Space Apps Challenge](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/yue-yuan-ren-tuan-yuan/?tab=project)
-    - [**Silver Medal**, Taichung Event](https://www.facebook.com/photo/?fbid=571163252148718&set=a.206992605232453), 
+    - [Global Nominee**](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/yue-yuan-ren-tuan-yuan/?tab=project), 2024 NASA Space Apps Challenge
+    - [Silver Medalist, Taichung Event](https://www.facebook.com/photo/?fbid=571163252148718&set=a.206992605232453), 2024 NASA Space Apps Challenge
     - GitHub repos: [Smorrery](https://github.com/qavit/smorrery), [keoinn/smorrery-webapp](https://github.com/keoinn/smorrery-webapp)
 
 ## I code with
