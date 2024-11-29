@@ -8,11 +8,13 @@ I am currently seeking opportunities as a machine learning engineer, AI engineer
 
 ## My projects
 - Currect project(s):
-  - **[Foyamcung](https://github.com/qavit/hakka_learning_app)** — a cross-platform Taiwanese Hakka learning app to be integrated with LLMs
+  - **Foyamcung**
+  - **BIN7**
 - Project(s) in the past:
-  - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** — American Sign Language (ASL) ✕ Wordle
-  - **[Gaia Room](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/yue-yuan-ren-tuan-yuan/?tab=project)** — 2024 NASA Space Apps Challenge (GitHub repos: [Smorrery](https://github.com/qavit/smorrery), [keoinn/smorrery-webapp](https://github.com/keoinn/smorrery-webapp))
-  - a private Django blog
+  - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** — American Sign Language (ASL) ✕ Wordle game
+  - **[Gaia Room](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/yue-yuan-ren-tuan-yuan/?tab=project)**
+    - 2024 NASA Space Apps Challenge (2nd Place, Taichung event)
+    - GitHub repos: [Smorrery](https://github.com/qavit/smorrery), [keoinn/smorrery-webapp](https://github.com/keoinn/smorrery-webapp)
 
 ## I code with
 
