@@ -8,7 +8,6 @@ I am currently seeking opportunities as a machine learning engineer, AI engineer
 
 ## My projects
 - Currect project(s):
-  - **Foyamcung**
   - **BIN7**
 - Project(s) in the past:
   - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** — American Sign Language (ASL) ✕ Wordle game
@@ -80,28 +79,6 @@ I am currently seeking opportunities as a machine learning engineer, AI engineer
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
-
-## XX
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="40" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-</div>
-
-###
 
 
 ## My Github stats
