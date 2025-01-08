@@ -4,12 +4,12 @@ I'm Sin-iu Ho (何信佑), from Taichung, Taiwan.
 
 I hold an MSc in Astronomy and Particle Physics from Eberhard Karls Universität Tübingen, where I focused on exploring the frontiers of [experimental very-high-energy gamma-ray astrophysics](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/astronomie-hea/forschung/prof-santangelo-abteilung-hochenergieastrophysik/beteiligung-an-experimenten/cta/).
 
-I am currently seeking opportunities as a machine learning engineer, AI engineer, or data scientist, eager to apply my expertise in innovative problem-solving and advanced technologies.
+I am backend engineer engaged in AI application eager to apply my expertise in innovative problem-solving and advanced technologies.
 
 ## My projects
 - Currect project(s):
-  - **BIN7**
-- Project(s) in the past:
+  - **Exam Generation and Grading System**
+- Selected Projects in the past:
   - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** — American Sign Language (ASL) ✕ Wordle game
   - **Fu'is Gaia Room**
     - [Global Nominee](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/yue-yuan-ren-tuan-yuan/?tab=project), 2024 NASA Space Apps Challenge
