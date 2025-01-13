@@ -8,13 +8,14 @@ I am backend engineer engaged in AI application eager to apply my expertise in i
 
 ## My projects
 - Currect project(s):
-  - **Exam Generation and Grading System**
+  - **[IUE](https://github.com/qavit/iue)** — Dictionary App
 - Selected Projects in the past:
   - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** — American Sign Language (ASL) ✕ Wordle game
   - **Fu'is Gaia Room**
     - [Global Nominee](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/yue-yuan-ren-tuan-yuan/?tab=project), 2024 NASA Space Apps Challenge
     - [Silver Medalist, Taichung Event](https://www.facebook.com/photo/?fbid=571163252148718&set=a.206992605232453), 2024 NASA Space Apps Challenge
     - GitHub repos: [Smorrery](https://github.com/qavit/smorrery), [keoinn/smorrery-webapp](https://github.com/keoinn/smorrery-webapp)
+  - **AI Exam Generation and Grading System**
 
 ## I code with
 
