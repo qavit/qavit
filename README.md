@@ -8,8 +8,8 @@ I am now a backend engineer engaged in AI application development, eager to appl
 
 ## My projects
 - Currect project(s):
-  - **[IUE](https://github.com/qavit/iue)** — Dictionary App
-  - **[LihoGPT](https://github.com/qavit/LihoGPT)** — Language Learning App empowered by OpenAI GPT 4o
+  - **HelloGPT 1.5** — An English Teaching Material Generation Application Powered by LLM
+  -  **[IUE](https://github.com/qavit/iue)** — A Dictionary App
 - Selected Projects in the past:
   - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** — American Sign Language (ASL) ✕ Wordle game
   - **Fu'is Gaia Room**
