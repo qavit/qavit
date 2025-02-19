@@ -4,11 +4,12 @@ I'm Sin-iu Ho (何信佑), from Taichung, Taiwan.
 
 I hold an MSc in Astronomy and Particle Physics from Eberhard Karls Universität Tübingen, where I focused on exploring the frontiers of [experimental very-high-energy gamma-ray astrophysics](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/astronomie-hea/forschung/prof-santangelo-abteilung-hochenergieastrophysik/beteiligung-an-experimenten/cta/).
 
-I am backend engineer engaged in AI application eager to apply my expertise in innovative problem-solving and advanced technologies.
+I am now a backend engineer engaged in AI application development, eager to apply my expertise in innovative problem-solving and advanced technologies.
 
 ## My projects
 - Currect project(s):
   - **[IUE](https://github.com/qavit/iue)** — Dictionary App
+  - **[LihoGPT](https://github.com/qavit/LihoGPT)** — Language Learning App empowered by OpenAI GPT 4o
 - Selected Projects in the past:
   - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** — American Sign Language (ASL) ✕ Wordle game
   - **Fu'is Gaia Room**
