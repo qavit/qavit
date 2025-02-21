@@ -4,11 +4,11 @@ I'm Sin-iu Ho (何信佑), from Taichung, Taiwan.
 
 I hold an MSc in Astronomy and Particle Physics from Eberhard Karls Universität Tübingen, where I focused on exploring the frontiers of [experimental very-high-energy gamma-ray astrophysics](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/astronomie-hea/forschung/prof-santangelo-abteilung-hochenergieastrophysik/beteiligung-an-experimenten/cta/).
 
-I am now a backend engineer engaged in AI application development, eager to apply my expertise in innovative problem-solving and advanced technologies.
+I am a backend engineer engaged in AI application development, eager to apply my expertise in innovative problem-solving and advanced technologies.
 
 ## My projects
 - Currect project(s):
-  - **HelloGPT 1.5** — An English Teaching Material Generation Application Powered by LLM
+  - **Tanterem** — A Language Course App
   -  **[IUE](https://github.com/qavit/iue)** — A Dictionary App
 - Selected Projects in the past:
   - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** — American Sign Language (ASL) ✕ Wordle game
@@ -22,11 +22,27 @@ I am now a backend engineer engaged in AI application development, eager to appl
 
 <!-- https://profile-readme-generator.com/ -->
 
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
 </div>
 
 
