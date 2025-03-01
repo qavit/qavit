@@ -8,7 +8,7 @@ I am a backend engineer engaged in AI application development, eager to apply my
 
 ## My projects
 - Currect project(s):
-  - **Tanterem** — A Language Course App
+  - **[SingSi](https://github.com/qavit/singsi)** — An AI-powered teaching assistant
   -  **[IUE](https://github.com/qavit/iue)** — A Dictionary App
 - Selected Projects in the past:
   - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** — American Sign Language (ASL) ✕ Wordle game
