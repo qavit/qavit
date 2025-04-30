@@ -7,15 +7,22 @@ I hold an MSc in Astronomy and Particle Physics from Eberhard Karls Universität
 I am a software developer engaged in web application development and data analysis, eager to apply my expertise in innovative problem-solving and advanced technologies.
 
 ## My projects
-- Currect project(s):
+- Active project(s):
+  -  Twitter news aggregation
+  -  Crytoassets price quoting (stablecoins, DEXs, lending protocols, etc.)
+  -  DeFi portfolio tracking (principal tokens, liquidity pools, etc.)
+  -  [Today In DeFi fork of **hummingbot**](https://github.com/Today-in-DeFi/hummingbot) — a DEX trading bot framework
+  -  **Qtutor** — Personal Tutoring Platform
+- Inactive projects(s)
   - **[SingSi](https://github.com/qavit/singsi)** — An AI-powered teaching assistant
-  -  **[IUE](https://github.com/qavit/iue)** — A Dictionary App
-- Selected Projects in the past:
+  - **[IUE](https://github.com/qavit/iue)** — A Dictionary App
+- Selected projects in the past:
   - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** — American Sign Language (ASL) ✕ Wordle game
-  - **Fu'is Gaia Room**
-    - [Global Nominee](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/yue-yuan-ren-tuan-yuan/?tab=project), 2024 NASA Space Apps Challenge
-    - [Silver Medalist, Taichung Event](https://www.facebook.com/photo/?fbid=571163252148718&set=a.206992605232453), 2024 NASA Space Apps Challenge
-    - GitHub repos: [Smorrery](https://github.com/qavit/smorrery), [keoinn/smorrery-webapp](https://github.com/keoinn/smorrery-webapp)
+  - **[Fu'is Gaia Room](https://github.com/keoinn/smorrery-webapp) — presented in [2024 NASA Space Apps Challenge](https://www.spaceappschallenge.org/nasa-space-apps-2024/)**
+    - [Global Nominee](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/yue-yuan-ren-tuan-yuan/?tab=project)
+    - [Silver Medalist, Taichung Event](https://www.facebook.com/photo/?fbid=571163252148718&set=a.206992605232453)
+    - original repo: [Smorrery](https://github.com/qavit/smorrery)
+  - **[bin70](https://github.com/qavit/bin70)** — face recognition
   - **AI Exam Generation and Grading System**
 
 ## I code with
