@@ -4,7 +4,7 @@ I'm Sin-iu Ho (何信佑), from Taichung, Taiwan.
 
 I hold an MSc in Astronomy and Particle Physics from Eberhard Karls Universität Tübingen, where I focused on exploring the frontiers of [experimental very-high-energy gamma-ray astrophysics](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/physik/institute/astronomie-und-astrophysik/astronomie-hea/forschung/prof-santangelo-abteilung-hochenergieastrophysik/beteiligung-an-experimenten/cta/).
 
-I am a software developer working for a DeFi (decentralized finance) startup, eager to apply my expertise in innovative problem-solving and advanced technologies.
+I am a software developer, eager to apply my expertise in innovative problem-solving and advanced technologies.
 
 ## My projects
 - Active project(s):
