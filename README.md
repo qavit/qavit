@@ -59,6 +59,3 @@ I am a software developer, eager to apply my expertise in innovative problem-sol
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qavit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=qavit&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
-
-## About the name *Qavit*
-*Qavit* means hundred-pace snake ([*Deinagkistrodon acutus*](https://www.snakesoftaiwan.com/deinagkistrodon-acutus.html), 百步蛇) in [Takbunuaz Bunun language](https://ilrdc.tw/research/athousand/pdf/lan4_4.pdf). This snake is found in the mid-elevation mountainous areas of central and southern Taiwan, and symbolizes oaths and friends in Bunun mythology. I hope that while programming and exploring cutting-edge technologies in the **Python** environments, I should never forget the value of Taiwanese culture, so I named my GitHub account *Qavit*.
