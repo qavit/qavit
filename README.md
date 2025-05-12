@@ -11,7 +11,7 @@ I’m currently transitioning from an academic background in astrophysics to sof
 I’m currently open to backend or data-oriented roles (remote or hybrid), especially in education technology, developer tools, or open-source projects with social impact.  
 If you're interested in working together, feel free to reach out!
 
-## My projects
+## 🧩 My projects
 - Notable project(s):
   -  **NewsAutomation** — Twitter news & aggregation
   -  **SectorAnalysis** & **PegTracker** — Cryptoassets price quoting (stablecoins, DEXs, lending protocols, etc.)
@@ -19,11 +19,11 @@ If you're interested in working together, feel free to reach out!
   -  [Today In DeFi fork of **hummingbot**](https://github.com/Today-in-DeFi/hummingbot) — a DEX trading bot framework
   -  **Qtutor** — Personal Tutoring Platform
   - **[Swordle](https://github.com/learnai2024-team3-project/slgame)** | YOLOv8, Django, Game Logic  
-  American Sign Language ✕ Wordle web game using w recognition and NLP hints.
-  - **[Fu'is Gaia Room](https://github.com/keoinn/smorrery-webapp)**
+  American Sign Language ✕ Wordle web game using object detection and classification.
+  - **[Fu'is Gaia Room](https://github.com/keoinn/smorrery-webapp)** | Three.js, Vue.js  
     Interactive 3D solar system simulator for education, selected as [Silver Medalist, Taichung Event](https://www.facebook.com/photo/?fbid=571163252148718&set=a.206992605232453) and [Global Nominee](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/yue-yuan-ren-tuan-yuan/?tab=project) at [NASA Space Apps Challenge 2024](https://www.spaceappschallenge.org/nasa-space-apps-2024/).
     
-## I code with
+## 🔧 I code with
 
 <!-- https://profile-readme-generator.com/ -->
 
@@ -62,8 +62,13 @@ If you're interested in working together, feel free to reach out!
 
 I frequently work with data from public APIs, automate data extraction and transformation (ETL), and store results into relational databases. Familiar with working across CoinGecko, DeFiLlama, and many other APIs.
 
+## 🧠 Currently learning...
 
-## My Github stats
+- Revisiting data structures and algorithms in Python
+- Improving my Go and JavaScript skills
+- Exploring best practices and clean architecture in software development
+
+## 📊 My Github stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qavit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qavit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
